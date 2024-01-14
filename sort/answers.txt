@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Its run time is more than Sort3 and Sort1 and it is clearly in larger problems it takes more and more time to sort
+
+sort2 uses: Merge Sort
+
+How do you know?: It has the shortest run time on all trials
+
+sort3 uses: Selection
+
+How do you know?: It has less run time than Sort3 in all cases
